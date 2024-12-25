@@ -14,7 +14,7 @@ A sleek and functional calculator application built using **PyQt**, perfect for 
 - **PyQt**: The GUI framework for creating the interface.  
 
 ## 🎥 App Preview 
-![Calculator](https://github.com/mahtabulsouravv//blob/main/Preview.PNG) </br>
+![Calculator](https://github.com/mahtabulsouravv/calculator/blob/main/Preview.PNG) </br>
 ## [Click Here!](https://drive.google.com/file/d/1hcnEqqFXc7skeqBPPeRwhTABgldx8SIN/view?usp=sharing) 
 
 ## 🚀 Getting Started  
